@@ -14,11 +14,11 @@ This project showcases a comprehensive **Excel Dashboard** designed to visualize
 - Conditional formatting for better data interpretation.
 
 ## 📂 Files Included
-- `Excel_Dashboard.xlsx` - The main dashboard file.
+- `Dashboard Practice file.xlsx` - The main dashboard file.
 - `README.md` - Project documentation (this file).
 
 ## 🚀 How to Use
-1. Download the `Excel_Dashboard.xlsx` file.
+1. Download the `Dashboard Practice file.xlsx` file.
 2. Open it in **Microsoft Excel 2016** or later for full functionality.
 3. Update the data source sheet if needed to reflect new data.
 4. Interact with charts, filters, and visual elements for insights.
